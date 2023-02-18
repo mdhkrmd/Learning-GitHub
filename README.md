@@ -3,8 +3,8 @@ This is my second time learning Github. So basically, i have experienced to lear
 
 ## First Nov 2022
 First time i learned Git. (25%)
-  - Hello World
-  - Hello Mountain
+  - Hello **World**
+  - Hello **Mountain**
   
 ## Second Nov 2022
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
